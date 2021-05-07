@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SimpleController {
     @RequestMapping("/")
     public String index() {
-        return "Hello World with Java on Spring!";
+        return "This is 19BCE2249 Siddharth Chatterjee!\nHello World with Java on Spring!";
     }
 
 }
